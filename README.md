@@ -10,8 +10,11 @@ Undergraduate Student at SLIIT, 4th Year 1 Semester.
 
 ## 📳 Contacts
 
--  Sliit Mail: _it19121048@my.sliit.lk_ 
--  Personal Main: ekanyakasalitha@gmail.com
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekanyakasalitha@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/salitha-ekanayaka-58023b1b9/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/salithaekanayaka/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nfs.salitha/)
+
 
 ## 🧑 Profile information
 <br>
