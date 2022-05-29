@@ -16,7 +16,7 @@ Undergraduate Student at SLIIT, 4th Year 1 Semester.
 ## 🧑 Profile information
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />&nbsp;
+<img src="https://komarev.com/ghpvc/?username=SalithaEkanayaka123&color=brightgreen" alt="watching_count" />&nbsp;
 
 ## 📚 GitHub
 <br>
@@ -30,14 +30,6 @@ Undergraduate Student at SLIIT, 4th Year 1 Semester.
 </a>
 <br><br>
 
-## 💹 Usage stats
-
-
-<p align='left'>
-<a href="https://github.com/SalithaEkanayaka123/SalithaEkanayaka123">
-  <img align="center" src="https://metrics.lecoq.io/SalithaEkanayaka123?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" />
-</a>
-</p>
 
 
 
