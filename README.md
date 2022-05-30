@@ -2,6 +2,10 @@
 
 Undergraduate Student at SLIIT, 4th Year 1 Semester.
 
+﻿<h1 align="center">
+  <img src="https://raw.githubusercontent.com/SalithaEkanayaka123/SalithaEkanayaka123/main/github image.png" alt="Marton Lederer" />
+</h1>
+
 ## 🌍 Working Areas
 
 -  Full stack development.
