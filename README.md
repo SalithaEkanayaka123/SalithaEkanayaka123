@@ -1,59 +1,89 @@
-# About Me 
+# Hi, I'm Salitha Ekanayaka 👋
 
-Graduate at SLIIT
-
-﻿<h1 align="center">
-  <img src="https://raw.githubusercontent.com/SalithaEkanayaka123/SalithaEkanayaka123/main/github image.png" alt="Marton Lederer" />
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/SalithaEkanayaka123/SalithaEkanayaka123/main/github image.png" alt="Salitha Ekanayaka" />
 </h1>
+
+## 👨‍💻 About Me
+
+I am a Software Engineer from Sri Lanka with experience in building enterprise-grade applications using Java, Spring Boot, Spring Integration, React, and microservice-based architectures.
+
+I graduated from SLIIT with a BSc (Hons) in Information Technology specializing in Software Engineering, and I am currently reading for an MSc in Big Data Analytics. I enjoy working on backend systems, RESTful APIs, distributed systems, frontend integrations, and cloud-native application development.
+
+My main focus is building scalable, secure, and maintainable software solutions while continuously improving my skills in Java, Spring Boot, React, AWS, DevOps, and AI-assisted software engineering.
 
 ## 🌍 Working Areas
 
--  Full stack development.
--  Mobilr Application Devlopment 
--  Software Engineering 
+- Backend Development with Java, Spring Boot, and Spring Integration
+- Microservices and Distributed System Design
+- RESTful API Design and API Gateway Integration
+- Full-stack Development with React and modern frontend technologies
+- Database Design, JPA, and Query Optimization
+- CI/CD, Docker/Podman, Linux, and AWS
+- AI-assisted Software Engineering and Productivity Improvement
 
-## 📳 Contacts
+## 🛠️ Tools and Technologies
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekanyakasalitha@gmail.com)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)&nbsp;
+![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains)&nbsp;
+
+## 🚀 Featured Experience
+
+- Developed cloud-native microservices using Java, Spring Boot, Spring Integration, JPA, and API Gateway patterns.
+- Built secure RESTful APIs with authentication, authorization, versioning, and service-to-service communication.
+- Worked on frontend modernization using React and Hilla, integrating with microservice APIs.
+- Improved MySQL queries, database schemas, and API performance.
+- Used Jenkins, Docker/Podman, Linux, and AWS-related practices for deployment and CI/CD workflows.
+- Worked closely with Australian stakeholders in an agile software engineering environment.
+
+## 📚 Currently Learning
+
+- Advanced Java and Spring Boot architecture
+- Cloud-native microservices
+- AWS Developer skills
+- React and modern frontend development
+- Big Data Analytics and AI engineering concepts
+
+## 🏆 Certifications & Achievements
+
+- AWS Certified Cloud Practitioner
+- 50+ LinkedIn Learning Courses
+- Outstanding Paper Award – ICAC 2022
+- BSc (Hons) Information Technology – Software Engineering, SLIIT
+- MSc Big Data Analytics – Reading
+
+## ✍️ Publications
+
+- Unlocking Dynamic RESTful APIs with Spring Boot: A Deep Dive into HATEOAS
+- Exploring the Strategy Design Pattern
+
+## 📫 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekanayakasalitha@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/salitha-ekanayaka-58023b1b9/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/salithaekanayaka/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nfs.salitha/)
+[<img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" />](YOUR_MEDIUM_LINK_HERE)
 
+## 📊 GitHub Stats
 
-## 🧑 Profile information
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalithaEkanayaka123&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=SalithaEkanayaka123&color=brightgreen" alt="watching_count" />&nbsp;
-
-## ⚒️ Tools and Technologies
-<br>
-
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=FFF)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=#007396)&nbsp;
-![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=JavaScript)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=#61DAFB)&nbsp;
-![Spring](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring-Boot)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=Sass)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.js)&nbsp;
-![VM](https://img.shields.io/badge/-VMware-333333?style=flat&logo=VMware)&nbsp;
-![IDEs](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=JetBrains)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)&nbsp;
-
-## 📚 GitHub
-<br>
-
-<a href="https://github.com/SalithaEkanayaka123/SalithaEkanayaka123">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SalithaEkanayaka123&show_icons=true&theme=vue-dark&count_private=true" />
-</a>
-<br><br>
-<a href="https://github.com/SalithaEkanayaka123/SalithaEkanayaka123">
-  <img width='415' height='200' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalithaEkanayaka123&layout=compact&theme=vue-dark" />
-</a>
-<br><br>
-
-
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalithaEkanayaka123&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalithaEkanayaka123&theme=github_dark" alt="Most Commit Language" />
+</p>
