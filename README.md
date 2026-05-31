@@ -1,7 +1,7 @@
 # Hi, I'm Salitha Ekanayaka 👋
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/SalithaEkanayaka123/SalithaEkanayaka123/main/github image.png" alt="Salitha Ekanayaka" />
+  <img src="https://raw.githubusercontent.com/SalithaEkanayaka123/SalithaEkanayaka123/main/github image 2.png" alt="Salitha Ekanayaka" />
 </h1>
 
 ## 👨‍💻 About Me
